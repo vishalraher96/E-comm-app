@@ -1,0 +1,159 @@
+{
+    "products":[
+        {
+            "id":1,
+         "name":"first product",
+         "image_url" :"https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg",
+         "title": "HP AMD Ryzen 5 Octa Core 8th Gen - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RTX 6GB RTX 3050) 15-fb3012AX Gaming Laptop  (15.6 inch, Black, With MS Office)",
+         "thumbnail": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/5/o/h/victus-15-gaming-laptop-hp-original-imahc4b4vs5fkrf6.jpeg?q=70",
+         "rating":"2.8⭐",
+         "highlights":[ "AMD Ryzen 5 Octa Core Processor (8th Gen)","16 GB DDR4 RAM","Windows 11 Home Operating System","512 GB SSD","39.62 cm (15.6 inch) Display","1 Year Warranty"],
+         "mrp": "65990",
+         "discount": 23
+        },
+        {
+         "id":2,
+         "name":"second product",
+         "image_url" :"https://images.pexels.com/photos/1667088/pexels-photo-1667088.jpeg",
+         "title" : "HP AMD Ryzen 5 Octa Core 8th Gen - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RTX 6GB RTX 3050) 15-fb3012AX Gaming Laptop  (15.6 inch, Black, With MS Office)",
+         "thumbnail": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/5/o/h/victus-15-gaming-laptop-hp-original-imahc4b4vs5fkrf6.jpeg?q=70",
+         "rating":"2.8⭐",
+         "highlights":[ "AMD Ryzen 5 Octa Core Processor (8th Gen)","16 GB DDR4 RAM","Windows 11 Home Operating System","512 GB SSD","39.62 cm (15.6 inch) Display","1 Year Warranty"],
+         "mrp": "65990",
+         "discount": 23
+        },
+        {
+         "id":3,
+         "name":"third product",
+         "image_url" :"https://images.pexels.com/photos/3819969/pexels-photo-3819969.jpeg",
+         "title": "HP AMD Ryzen 5 Octa Core 8th Gen - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RTX 6GB RTX 3050) 15-fb3012AX Gaming Laptop  (15.6 inch, Black, With MS Office)",
+         "thumbnail": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/5/o/h/victus-15-gaming-laptop-hp-original-imahc4b4vs5fkrf6.jpeg?q=70",
+         "rating":"2.8⭐",
+         "highlights":[ "AMD Ryzen 5 Octa Core Processor (8th Gen)","16 GB DDR4 RAM","Windows 11 Home Operating System","512 GB SSD","39.62 cm (15.6 inch) Display","1 Year Warranty"],
+         "mrp": "65990",
+         "discount": 23
+        },
+        {
+         "id":4,
+         "name":"fourth product",
+         "image_url" :"https://images.pexels.com/photos/279480/pexels-photo-279480.jpeg",
+         "title": "HP AMD Ryzen 5 Octa Core 8th Gen - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RTX 6GB RTX 3050) 15-fb3012AX Gaming Laptop  (15.6 inch, Black, With MS Office)",
+         "thumbnail": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/5/o/h/victus-15-gaming-laptop-hp-original-imahc4b4vs5fkrf6.jpeg?q=70",
+         "rating":"2.8⭐",
+         "highlights":[ "AMD Ryzen 5 Octa Core Processor (8th Gen)","16 GB DDR4 RAM","Windows 11 Home Operating System","512 GB SSD","39.62 cm (15.6 inch) Display","1 Year Warranty"],
+         "mrp": "65990",
+         "discount": 23
+        },
+        {
+         "id":5,
+         "name":"fifth product",
+         "image_url" :"https://images.pexels.com/photos/3270222/pexels-photo-3270222.jpeg",
+         "title": "HP AMD Ryzen 5 Octa Core 8th Gen - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RTX 6GB RTX 3050) 15-fb3012AX Gaming Laptop  (15.6 inch, Black, With MS Office)",
+         "thumbnail": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/5/o/h/victus-15-gaming-laptop-hp-original-imahc4b4vs5fkrf6.jpeg?q=70",
+         "rating":"2.8⭐",
+         "highlights":[ "AMD Ryzen 5 Octa Core Processor (8th Gen)","16 GB DDR4 RAM","Windows 11 Home Operating System","512 GB SSD","39.62 cm (15.6 inch) Display","1 Year Warranty"],
+         "mrp": "65990",
+         "discount": 23
+        }
+    ],
+
+    "categories":[
+        {
+        "id":1,
+        "name":"Electronics",
+        "thumbnail":"",
+                "sub-categories":[
+            {
+                "id":1,
+                "name":"Mobiles",
+                "thumbnail":""
+            },
+            {
+                "id":1,
+                "name":"Tablets",
+                "thumbnail":""
+            },
+            {
+                "id":1,
+                "name":"Laptop & PC",
+                "thumbnail":""
+            }
+        ]
+        
+    },
+        {
+        "id":1,
+        "name":"Laptop & PC",
+        "thumbnail":"",
+                "sub-categories":[
+            {
+                "id":1,
+                "name":"Mobiles",
+                "thumbnail":""
+            },
+            {
+                "id":1,
+                "name":"Tablets",
+                "thumbnail":""
+            },
+            {
+                "id":1,
+                "name":"Laptop & PC",
+                "thumbnail":""
+            }
+        ]
+    },
+        {
+        "id":1,
+        "name":"Electronics",
+        "thumbnail":""
+    },
+        {
+        "id":1,
+        "name":"Electronics",
+        "thumbnail":""
+    },
+        {
+        "id":1,
+        "name":"Electronics",
+        "thumbnail":""
+    },
+        {
+        "id":1,
+        "name":"Electronics",
+        "thumbnail":""
+    },
+        {
+        "id":1,
+        "name":"Electronics",
+        "thumbnail":""
+    },
+        {
+        "id":1,
+        "name":"Electronics",
+        "thumbnail":""
+    },
+        {
+        "id":1,
+        "name":"Electronics",
+        "thumbnail":""
+    },
+        {
+        "id":1,
+        "name":"Electronics",
+        "thumbnail":""
+    },
+        {
+        "id":1,
+        "name":"Electronics",
+        "thumbnail":""
+    },
+        {
+        "id":1,
+        "name":"Electronics",
+        "thumbnail":""
+    }
+       
+    ]
+}
+    
